@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spandana M B</h1>
-<h3 align="center">AI & ML Engineer | Android Developer | Java | Python | GenAI Enthusiast</h3>
+<h3 align="center">AI & ML Graduate | Android Developer | Java | Python | GenAI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Java+Developer;Python+Programmer;Android+Developer;Generative+AI+Enthusiast" />
@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student
+🎓 B.E. Graduate in Artificial Intelligence & Machine Learning.
 
 💡 Passionate about
 - Artificial Intelligence
@@ -140,10 +140,10 @@ An Android application that helps students with
 
 ## 🌐 Connect with Me
 
-📧 Email: your-email@gmail.com
+📧 Email: spandanambaiml2026@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/your-linkedin/
+https://www.linkedin.com/in/spandana-m-b-b5925425a/
 
 🌟 GitHub:
 https://github.com/Spandanamb7
