@@ -1,12 +1,12 @@
 # Hi 👋, I'm Spandana M B
 
-### AI & ML Engineer | Android Developer | Java | Python | GenAI Enthusiast
+### AI & ML Graduate | Android Developer | Java | Python | GenAI Enthusiast
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student
+🎓 Graduated in B.E. Artificial Intelligence & Machine Learning. 
 
 💡 Passionate about:
 - Artificial Intelligence
