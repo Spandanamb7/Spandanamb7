@@ -1,14 +1,17 @@
-# Hi 👋, I'm Spandana M B
+<h1 align="center">Hi 👋, I'm Spandana M B</h1>
+<h3 align="center">AI & ML Engineer | Android Developer | Java | Python | GenAI Enthusiast</h3>
 
-### AI & ML Graduate | Android Developer | Java | Python | GenAI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Java+Developer;Python+Programmer;Android+Developer;Generative+AI+Enthusiast" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.E. Graduate in Artificial Intelligence & Machine Learning. 
+🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student
 
-💡 Passionate about:
+💡 Passionate about
 - Artificial Intelligence
 - Machine Learning
 - Generative AI
@@ -16,29 +19,29 @@
 - Java Development
 - Problem Solving
 
-🌱 Currently Learning:
+🌱 Currently Learning
 - Data Structures & Algorithms
 - Advanced Java
 - Spring Boot
 - React.js
 - Deep Learning
 
-🎯 Goal:
+🎯 Goal
 To work as an AI Engineer or Software Developer where I can build innovative applications and solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## Languages
+### Languages
 - Java
 - Python
 - SQL
 - HTML
 - CSS
+- JavaScript
 
-
-## AI / ML
+### AI / ML
 - Machine Learning
 - Generative AI
 - Hugging Face
@@ -46,17 +49,17 @@ To work as an AI Engineer or Software Developer where I can build innovative app
 - Streamlit
 - Ollama
 
-## Android
+### Android
 - Kotlin
 - Android Studio
 - Jetpack Compose
 - Firebase
 
-## Databases
+### Databases
 - MySQL
 - Firebase Firestore
 
-## Tools
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -79,7 +82,8 @@ Android Healthcare Application that helps users search nearby pharmacies and che
 ---
 
 ## 🤖 GenAI Craft Fusion
-A Multimodal AI Application that analyzes:
+A Multimodal AI Application that analyzes
+
 - Images
 - Audio
 - PDFs
@@ -98,21 +102,54 @@ using Hugging Face models and Streamlit.
 
 ## 📚 AI Study Assistant
 
-An Android application that helps students with:
+An Android application that helps students with
+
 - Study Planning
 - Notes
 - AI-based Learning Assistance
 
 ---
 
-# 🌐 Connect with Me
+## 📊 GitHub Stats
 
-📧 Email: spandanambaiml2026@gmail.com
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/spandana-m-b-b5925425a/
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Spandanamb7&show_icons=true&theme=tokyonight"/>
 
-🌟 GitHub: https://github.com/Spandanamb7
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Spandanamb7&theme=tokyonight"/>
+
+</p>
 
 ---
 
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandanamb7&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spandanamb7&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/your-linkedin/
+
+🌟 GitHub:
+https://github.com/Spandanamb7
+
+---
+
+<p align="center">
 ⭐ Thanks for visiting my profile! ⭐
+</p>
