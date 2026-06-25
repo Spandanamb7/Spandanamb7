@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Spandana M B</h1>
-<h3 align="center">AI & ML Graduate | Android Developer | Java | Python | GenAI Enthusiast</h3>
+<h3 align="center">AI & ML Graduate | Java | Python | GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Java+Developer;Python+Programmer;Android+Developer;Generative+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+ Graduate;Java+Developer;Python+Developer;Generative+AI+Enthusiast" />
 </p>
 
 ---
