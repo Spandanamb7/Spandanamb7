@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Graduated in B.E. Artificial Intelligence & Machine Learning. 
+🎓 B.E. Graduate in Artificial Intelligence & Machine Learning. 
 
 💡 Passionate about:
 - Artificial Intelligence
